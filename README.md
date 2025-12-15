@@ -41,5 +41,5 @@ My free time is spent diving into the mechanics of deep learning and model archi
 ---
 
 ### 📫 Connect with me
-* 🌐 **Portfolio/Blog:** [iAbhyuday.github.io](https://iAbhyuday.github.io)
-* 💼 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/)
+* 🌐 **Portfolio/Blog:** [iabhyuday.github.io](https://iabhyuday.github.io)
+* 💼 **LinkedIn:** [linkedin.com/in/iabhyuday](https://www.linkedin.com/in/iabhyuday)
