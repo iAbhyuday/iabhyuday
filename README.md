@@ -1,25 +1,22 @@
 # Hi there, I'm Abhyuday! 👋
 
-### 🚀 Engineer @ The Intersection of AI & Robotics
+### 🧠 I build systems that can see, reason, and act.
 
-I don't just build models; I build systems that perceive, reason, and act. My work spans from high-level cognitive reasoning to low-level hardware control.
+I’m an engineer who enjoys hacking on learning, decision-making, and software to build intelligent systems and push them into real-world settings.
 
-**What I'm building:**
-* 🧠 **Autonomous Agents:** Architecting LLM-based agents and RAG pipelines that can reason and retrieve complex data.
-* 🦾 **Embodied AI:** Bridging the Sim2Real gap using Reinforcement Learning and Computer Vision for robotics.
-* ⚡ **High-Performance Systems:** leveraging **C++** and **Golang** to build low-latency backends and control loops.
-* 🔌 **Embedded Logic:** Deploying intelligence to the edge with optimized inference and sensor fusion.
-
----
-
-### 🔬 Research & Experimentation
-My free time is spent diving into the mechanics of deep learning and model architecture.
-
-* **Model Tinkering:** I actively research and implement non-standard loss functions, novel regularization techniques, and attention mechanisms in PyTorch.
-* **LLM Architectures:** Currently exploring parameter-efficient fine-tuning (PEFT/LoRA) and custom decoding strategies for domain-specific language models.
+### 🔬 Research Interests
+* **Deep Learning:** Model architectures, loss functions, and training dynamics.
+* **Reinforcement Learning:** Offline RL policies, control, and simulation-driven experiments.
+* **Agentic Systems:** LLMs, RAG, and planning agents.
+* **Robotics & Embedded Systems:** Perception, drones, and hardware-aware design.
 
 ---
 
+### 💡 My Daily Grind
+* **Coding:** Python, C++, Go, and Node.js.
+* **Tinkering:** I love prototyping with electronics, hardware, and new frameworks.
+* **Learning:** reading papers, articles, and watching technical lectures.
+  
 ### 🛠️ Tech Stack
 
 | **Domain** | **Technologies** |
