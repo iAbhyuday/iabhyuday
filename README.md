@@ -11,12 +11,12 @@ I’m an engineer who enjoys hacking on learning, decision-making, and software 
 * **Robotics & Embedded Systems:** Perception, drones, and hardware-aware design.
 
 ---
-
 ### 💡 My Daily Grind
-* **Coding:** Python, C++, Go, and Node.js.
-* **Tinkering:** I love prototyping with electronics, hardware, and new frameworks.
-* **Learning:** reading papers, articles, and watching technical lectures.
-  
+* **Coding:** 💻 Python, C++, Go, and Node.js.
+* **Tinkering:** 🔌 I love prototyping with electronics, hardware, and new frameworks.
+* **Learning:** 📚 reading papers, articles, and watching technical lectures.
+---
+
 ### 🛠️ Tech Stack
 
 | **Domain** | **Technologies** |
